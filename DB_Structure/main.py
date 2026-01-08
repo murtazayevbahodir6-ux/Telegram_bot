@@ -11,7 +11,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
 # ----------------- CONFIG -----------------      
-TOKEN = "8526235095:AAGSSg4sVAi0xctRAv6hpolDqI-SjVV7q_E"
+TOKEN = ""
 ADMIN_ID = 6450678728
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", stream=sys.stdout)
